@@ -17,6 +17,6 @@
 ## 🌟 Quick Deploy
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/vipin-kumar735/Andaz"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" width="200px" alt="Deploy to Heroku"></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/dilchorofficial/Bts-army-music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" width="200px" alt="Deploy to Heroku"></a>
 </p>
 
