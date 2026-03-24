@@ -112,7 +112,7 @@ class Userbot(Client):
                 
                 try:
                     await self.two.join_chat("TEAM_CHOR")
-                    await self.two.join_chat("ShrutiBotSupport")
+                    await self.two.join_chat("ll_botchat_ll")
                 except:
                     pass
                     
@@ -140,7 +140,7 @@ class Userbot(Client):
                 
                 try:
                     await self.three.join_chat("TEAM_CHOR")
-                    await self.three.join_chat("ShrutiBotSupport")
+                    await self.three.join_chat("ll_botchat_ll")
                 except:
                     pass
                     
@@ -167,7 +167,7 @@ class Userbot(Client):
                 
                 try:
                     await self.four.join_chat("TEAM_CHOR")
-                    await self.four.join_chat("ShrutiBotSupport")
+                    await self.four.join_chat("ll_botchat_ll")
                 except:
                     pass
                     
@@ -194,7 +194,7 @@ class Userbot(Client):
                 
                 try:
                     await self.five.join_chat("TEAM_CHOR")
-                    await self.five.join_chat("ShrutiBotSupport")
+                    await self.five.join_chat("ll_botchat_ll")
                 except:
                     pass
                     
